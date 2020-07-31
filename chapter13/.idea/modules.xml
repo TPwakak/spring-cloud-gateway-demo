@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter13.iml" filepath="$PROJECT_DIR$/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-eureka-server/sc-eureka-server.iml" filepath="$PROJECT_DIR$/sc-eureka-server/sc-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-gateway/sc-service-gateway.iml" filepath="$PROJECT_DIR$/sc-service-gateway/sc-service-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-hi/sc-service-hi.iml" filepath="$PROJECT_DIR$/sc-service-hi/sc-service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-gateway-filter/springcloud-gateway-filter.iml" filepath="$PROJECT_DIR$/springcloud-gateway-filter/springcloud-gateway-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-gateway-hello/springcloud-gateway-hello.iml" filepath="$PROJECT_DIR$/springcloud-gateway-hello/springcloud-gateway-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-gateway-predicate/springcloud-gateway-predicate.iml" filepath="$PROJECT_DIR$/springcloud-gateway-predicate/springcloud-gateway-predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-gateway-ratelimiter/springcloud-gateway-ratelimiter.iml" filepath="$PROJECT_DIR$/springcloud-gateway-ratelimiter/springcloud-gateway-ratelimiter.iml" />
+    </modules>
+  </component>
+</project>

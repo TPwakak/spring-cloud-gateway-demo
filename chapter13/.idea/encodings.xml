@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-service-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-predicate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-ratelimiter" charset="UTF-8" />
+  </component>
+</project>
